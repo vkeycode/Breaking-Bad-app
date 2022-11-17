@@ -2,7 +2,13 @@
 
 This project was developed to practice Redux
 
-## Available Scripts
+## Built With
+* React
+* Redux
+* Masonry
+
+
+## Scripts
 
 In the project directory, you can run:
 
@@ -32,7 +38,4 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
 ### `npm run eject`
 
 **Note: this is a one-way operation. Once you `eject`, you can't go back!**
-## Built With
-* React
-* Redux
-* Masonry
+
